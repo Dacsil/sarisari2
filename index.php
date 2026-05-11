@@ -49,7 +49,7 @@ $logoB64  = file_exists($logoPath)
     <button class="cat-btn" data-cat="Canned &amp; Instant Foods">Canned &amp; Instant Foods</button>
     <button class="cat-btn" data-cat="Personal Care">Personal Care</button>
     <button class="cat-btn" data-cat="Household Supplies">Household Supplies</button>
-    <button class="cat-btn" data-cat="Household Supplies">PAng Balay</button>
+    <button class="cat-btn" data-cat="Household Supplies">Candies</button>
   </div>
 </nav>
 
