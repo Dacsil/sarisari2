@@ -29,8 +29,6 @@ $logoB64  = file_exists($logoPath)
     <?php endif; ?>
     <div>
       <div class="store-name">Bords Motorparts</div>
-      <div class="store-sub">Inventory &amp; POS</div>
-      <div class="store-name">Sari-Sari Store</div>
       <div class="store-sub">Inventory </div>
     </div>
 
