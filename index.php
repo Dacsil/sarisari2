@@ -29,7 +29,7 @@ $logoB64  = file_exists($logoPath)
     <?php endif; ?>
     <div>
       <div class="store-name">Sari-Sari Store</div>
-      <div class="store-sub">Inventory &amp;</div>
+      <div class="store-sub">Inventory </div>
     </div>
 
     <div class="search-wrap mx-auto">
@@ -49,7 +49,7 @@ $logoB64  = file_exists($logoPath)
     <button class="cat-btn" data-cat="Canned &amp; Instant Foods">Canned &amp; Instant Foods</button>
     <button class="cat-btn" data-cat="Personal Care">Personal Care</button>
     <button class="cat-btn" data-cat="Household Supplies">Household Supplies</button>
-    <button class="cat-btn" data-cat="Household Supplies">gula</button>
+    <button class="cat-btn" data-cat="Household Supplies">PAng Balay</button>
   </div>
 </nav>
 
