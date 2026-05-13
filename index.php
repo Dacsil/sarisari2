@@ -9,7 +9,7 @@ $logoB64  = file_exists($logoPath)
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sari-Sari Store — POS &amp; Inventory</title>
+<title>Bords Motorparts; Inventory</title>
 <?php if ($logoB64): ?>
 <link rel="icon" type="image/png" href="assets/logo.png">
 <?php endif; ?>
@@ -44,8 +44,8 @@ $logoB64  = file_exists($logoPath)
 
   <div class="cat-bar" id="catBar">
     <button class="cat-btn active" data-cat="All Items">All Items</button>
-    <button class="cat-btn" data-cat="Beverages">Beverages</button>
-    <button class="cat-btn" data-cat="Snacks">Snacks</button>
+    <button class="cat-btn" data-cat="tire">tire</button>
+    <button class="cat-btn" data-cat="Interior">Interior</button>
     <button class="cat-btn" data-cat="Canned &amp; Instant Foods">Canned &amp; Instant Foods</button>
     <button class="cat-btn" data-cat="Personal Care">Personal Care</button>
     <button class="cat-btn" data-cat="Household Supplies">Household Supplies</button>
