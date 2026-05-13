@@ -29,7 +29,7 @@ $logoB64  = file_exists($logoPath)
     <?php endif; ?>
     <div>
       <div class="store-name">Sari-Sari Store</div>
-      <div class="store-sub">Inventory &amp;</div>
+      <div class="store-sub">Inventory </div>
     </div>
 
     <div class="search-wrap mx-auto">
